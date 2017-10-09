@@ -2,6 +2,7 @@
 - Speak simply (use simple words and simple sentence construct)
 - Lead with 10 words on why you chose this project
 Women in the workforce earning wages or a salary are part of a modern phenomenon.
+
 - Why is your project interesting?
 Women have been challenged by inequity in the workforce therefore we want to figure out how it is right now.
 - Who is the audience?
