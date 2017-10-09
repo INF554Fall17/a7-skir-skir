@@ -1,6 +1,7 @@
 ## Women in workforce
 - Speak simply (use simple words and simple sentence construct)
 - Lead with 10 words on why you chose this project
+
 Women in the workforce earning wages or a salary are part of a modern phenomenon.
 
 - Why is your project interesting?
