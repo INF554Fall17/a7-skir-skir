@@ -18,9 +18,8 @@ d3.js and Angualr.
 - How are you going to design, build, and evaluate?
 We will firstly look into the data then decide which visualization methods that we are going to use. After that, we will evaluate the visualization by using Cairo design principles and Visualization Wheel.
 ~~- What are your deliverables?~~
-
 - How do you work together?
 Use github to implement version control and have weekly meeting to discuss work progress and problems.
 - What is your timeline?
-Finalized & formatted data Paper prototypes in the first week. Validated paper prototypes with critique group
-Deployed prototype website in the second week. Design refinements with critique groups and users feedback in the third and fourth week. 
+Finalized & formatted data Paper prototypes in the first week. Validated paper prototypes with critique group Deployed prototype website in the second week. Design refinements with critique groups and users feedback in the third and fourth week. 
+
