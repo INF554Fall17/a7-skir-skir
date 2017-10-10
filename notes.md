@@ -7,10 +7,9 @@ Women have been challenged by inequity in the workforce therefore we want to fi
 #### Who is the audience?
 People all over the world especially women who get unequal treatment at work.
 #### Why is your visualization important?
-
-#### How is your visualization useful?
 There is a deeply ingrained idea in our society that men are the movers and shakers in the business world. They are the CEO’s, the CFO’s, and the ones who make things happen. This may have been true fifty years ago, but today we are seeing a new and very interesting trend developing. Women are making great strides in the business world and the ratio of men to women is beginning to even out.
 
+#### How is your visualization useful?
 While the participation of women in the workforce and the level of their education are increasing, there are some major factors that are holding women back more than men. These factors, among others, contribute to the enormous wage gap and overall gender inequality that has developed in the modern workplace. This problem needs to be addressed because new research has shown that women in leadership roles bring higher profitability, new and effective leadership styles, and many other benefits to a company.
 #### What are you telling with your visualization? What is the story?
 1. Growth in the Education of Women.
