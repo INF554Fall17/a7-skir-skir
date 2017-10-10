@@ -14,8 +14,8 @@ While the participation of women in the workforce and the level of their educati
 #### What are you telling with your visualization? What is the story?
 1. Growth in the Education of Women.
 2. Participation Growth of Women in the Workforce.
-3. Work-life Balance of Women in the Workforce.
-4. Wage Gap in Management Accounting.
+3. Wage Gap in Management Accounting.
+4. Leadership Gap.
 
 
 #### How do you plan to use interactive visuals?
