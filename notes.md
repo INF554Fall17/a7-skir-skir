@@ -2,6 +2,7 @@
 #### Speak simply (use simple words and simple sentence construct)
 #### Lead with 10 words on why you chose this project ？
 Women in the workforce are treated inequally.
+Most of managers in workforce are men.
 #### Why is your project interesting?
 Women have been challenged by inequity in the workforce therefore we want to figure out how it is right now.
 #### Who is the audience?
@@ -11,7 +12,7 @@ There is a deeply ingrained idea in our society that men are the movers and shak
 
 #### How is your visualization useful?
 While the participation of women in the workforce and the level of their education are increasing, there are some major factors that are holding women back more than men. These factors, among others, contribute to the enormous wage gap and overall gender inequality that has developed in the modern workplace. This problem needs to be addressed because new research has shown that women in leadership roles bring higher profitability, new and effective leadership styles, and many other benefits to a company.
-#### What are you telling with your visualization? What is the story?
+#### What are you telling with your visualization? What is the story?(deliverables)
 1. Growth in the Education of Women.
 2. Participation Growth of Women in the Workforce.
 3. Wage Gap in Management Accounting.
@@ -19,7 +20,7 @@ While the participation of women in the workforce and the level of their educati
 
 
 #### How do you plan to use interactive visuals?
-Bar chart, bubble chart, map plot with interactive function, piechart.
+Bar chart, bubble chart, map plot with interactive function, slopechart, piechart.
 
 
 #### What are your design considerations?
@@ -32,7 +33,7 @@ Using Bootstrap tool to decorate our visualization work, and make good use of vi
 From the content, our visualization focuses on a new novel topic which analyzing Women in workforce. And technically, we will use Bootstrap and Angualr to make our work more elegant and intereactive.
 
 #### What are the technologies you plan to use?
-d3.js and Angualr.
+d3.js, html, and Angualr.
 #### How are you going to design, build, and evaluate?
 We will firstly look into the data then decide which visualization methods that we are going to use. After that, we will evaluate the visualization by using Cairo design principles and Visualization Wheel.
 ~~#### What are your deliverables?~~
